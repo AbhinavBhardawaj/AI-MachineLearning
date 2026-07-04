@@ -7,7 +7,7 @@
 ## Phase 1: Math Refresh (Weeks 1–2)
 Goal: build geometric intuition, not memorize formulas.
 
-- [ ] Week 1: 3Blue1Brown — *Essence of Linear Algebra* (all episodes). After each video, pause and ask "what would this look like in numpy?"
+- [*] Week 1: 3Blue1Brown — *Essence of Linear Algebra* (all episodes). After each video, pause and ask "what would this look like in numpy?"
 - [ ] Week 2: 3Blue1Brown — *Essence of Calculus* (all episodes). Focus especially on derivatives, chain rule, and the intro to gradients.
 - [ ] Only if something still feels foreign: dip into the Cartoon/Manga guide for that specific topic (e.g. just the derivatives chapter).
 
